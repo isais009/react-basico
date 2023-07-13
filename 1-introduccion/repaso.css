@@ -1,0 +1,40 @@
+.caja{
+    height: 100px;
+    margin: 20px;
+}
+
+.caja1{
+    display: inline-block;
+    background-color: green;
+}
+
+.caja2{
+    display: none;
+    background-color: red;
+}
+
+.caja3{
+    display: inline-block;
+    background-color: blue;
+}
+
+.caja4{
+    display: none;
+    background-color: black;
+}
+
+
+
+.texto{
+    font-size: 40px;
+    background-color: black;
+}
+
+
+.texto-verde{
+    color: green;
+}
+
+.texto-blanco{
+    color: white;
+}
