@@ -1,0 +1,8 @@
+.lista-ul{
+    list-style-type: circle;
+    /* list-style-image: url('star.png'); */
+}
+
+.lista-ol{
+    list-style: none;
+}
