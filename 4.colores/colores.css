@@ -1,0 +1,11 @@
+body{
+    background-image: url('../2-imagenes-enlaces/img/imagen1.jpg');
+    background-size: cover;
+}
+
+.caja{
+    color: white;
+    padding: 20px;
+    /* background-color: rgb(0, 0, 0, 0.8); RGBA*/
+    background-color: #000000;
+}
