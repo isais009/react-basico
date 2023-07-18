@@ -1,5 +1,12 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #EEEEEE;
+}
+
+.contenedor-limite{
+    max-width: 1130px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header-top-main{
@@ -9,9 +16,6 @@ body{
 
 .contenedor-top{
     display: flex;
-    max-width: 1130px;
-    margin-left: auto;
-    margin-right: auto;
     justify-content: space-between;
     align-items: center;
 }
