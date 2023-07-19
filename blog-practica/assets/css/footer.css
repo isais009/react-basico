@@ -1,0 +1,53 @@
+footer{
+    margin-top: 80px;
+}
+
+footer .acerca-de{
+    padding: 40px;
+    background-color: #191919;
+    color: #FFFFFF;
+}
+
+footer .acerca-de img{
+    display: block;
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+footer .acerca-de p{
+    width: 540px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+footer .nav-footer{
+    background-color: #262626;
+}
+
+footer .nav-footer--content{
+    display: flex;
+    color: #B3B3B3;
+    padding: 20px 0px;
+    font-size: 12px;
+    justify-content: space-between;
+}
+
+
+footer .nav-footer--content nav{
+    display: flex;
+    gap: 30px;
+}
+
+footer .nav-footer--content nav a{
+    color: #B3B3B3;
+    text-decoration: none;
+}
+
+footer .nav-footer--content nav a:hover{
+    color: white;
+}
