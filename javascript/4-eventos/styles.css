@@ -1,0 +1,14 @@
+.texto{
+    border: solid 2px;
+    padding: 10px;
+    border-radius: 10px;
+    display: none;
+}
+
+.mostrar{
+    display: block;
+}
+
+.ocultar{
+    display: none;
+}
